@@ -3,7 +3,7 @@
 
 ## About me  
 
-I am a current CS university student in London, with a big interest in AI
+I am a current CS university student with a fine art background, with a keen interest in Computer Vision.
 
 Currently working on deep learning models with the Tensorflow framework.
 
