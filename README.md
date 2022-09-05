@@ -1,7 +1,13 @@
 # I love potatoes 🥔  
-  
+
 
 ## About me  
+
+I am a current CS university student in London, with a big interest in AI
+
+Currently working on deep learning models with the Tensorflow framework.
+
+## Connect with me
   
 <a href="https://twitter.com/ElPatatone" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
