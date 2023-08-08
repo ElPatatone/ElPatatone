@@ -4,7 +4,7 @@
 
 I am a current CS university student with an art background.
 
-At the moment I am focusing on low level programming starting with C.
+Right now I am focusing on systems programming with C.
 
 ## Connect with me
 
