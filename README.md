@@ -1,7 +1,7 @@
 ## About me
 
-Currently a last year student in Computer Science, I begun with a fascination for AI problems but as one thing led to another I now have a bigger interest in low level programming.
-This spans several fields such as: low latency software, embedded systems, OS development, graphics programming.
+I am a recent graduate in Computer Science currently on the lookout for a software engineer postion. Main interest lies in back end development but am also interested interest
+other areas.
 
 ## Connect with me
 
