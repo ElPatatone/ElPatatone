@@ -1,15 +1,18 @@
 ## About me
 
-I am a recent graduate in Computer Science currently on the lookout for a software engineer postion. Main interest lies in back end development but am also interested interest
-other areas.
+After a long period of poor health, I begun to reevaluate what I wanted in life. That
+reflection led to the reigniting of my passion for Computer Science.
 
-## Connect with me
+Right now I am focused on exploring the **foundations of Computing** from the silicon
+up. I am focused on **GPU architecuture and computing**, as well **computer 
+architecture** more broadly, peeling away abstraction layers to understand how 
+systems work at a foundational level.
 
-<a href="https://linkedin.com/in/Hasanur-Rahman-Mohammad" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+**GOAL**: To work at the forefront of computing technology, driving innovation in GPUs
+and next generation architectures.
 
-<b><a href="https://ElPatatone.com" target="_blank">
-Personal Site
-</a>
-</b>
+Check out my [website](www.elpatatone.com)  
+Connect with me [Linkedin](www.linkedin.com/in/hasanur-rahman-mohammad)
+
+---
+> *“Real understanding begins where the abstractions end.”*  
