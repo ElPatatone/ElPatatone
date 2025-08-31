@@ -1,15 +1,10 @@
 ## About me
 
-After a period of poor health, I took time to reflect on what I truly wanted in life, 
-which helped reignite my passion for computer science.
+After taking time to reflect on my priorities, my passion for computing was reignited. I have since decided to commit to a career in research.
 
-Right now I am exploring the **foundations of Computing** from the silicon
-up, with a particular emphasis on **GPU computing**, as well as broader **computer
-architecture**. My approach is to peel away abstraction layers and understand how
-systems work at a foundational level.
+Right now I am focused on exploring **GPU computing** and how we use modern hardware to accelerate **AI workloads** to solve real-world problems.
 
-**GOAL**: To contribute at the forefront of computing technology, driving innovation
-in GPUs and next generation architectures.
+**GOAL**: To contribute at the forefront of computing technology, driving innovation in GPUs and next generation architectures to accelerate AI workloads.
 
 Check out my [website](https://www.elpatatone.com)  
 Connect with me [Linkedin](https://www.linkedin.com/in/hasanur-rahman-mohammad)
